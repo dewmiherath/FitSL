@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388996901466",
+    "project_id": "fitsl-3234b",
+    "storage_bucket": "fitsl-3234b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388996901466:android:56e7d3808e55ce8cb50663",
+        "android_client_info": {
+          "package_name": "com.example.mygymapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTfZkmTPsX-56BSGpOL-GefyeqehsFfPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
